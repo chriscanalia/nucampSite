@@ -1,7 +1,9 @@
 body {
   font-family: 'Roboto', sans-serif;
 }
-
+a:hover {
+  text-decoration: none !important;
+}
 h1,
 h2,
 h3 {
