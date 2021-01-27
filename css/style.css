@@ -44,12 +44,14 @@ header h2 {
   background: #901cad;
 }
 
-.tab-content {
-  border: 1px solid #ddd;
-  border-top: none;
-  padding: 10px;
-}
-
 #accordian a:hover {
   cursor: pointer;
+}
+
+.carousel-caption {
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.carousel {
+  border: solid #5637dd;
 }
